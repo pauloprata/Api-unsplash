@@ -5,6 +5,7 @@ Projeto pessoal utilizando a API UNSPLASH
 ### Tecnologias Utilizadas
 * Kotlin
 * Consumo de API (Coroutines + Retrofit)
+* Firebase Autenticação
 * Okhttp
 * Gson
 * Picasso
