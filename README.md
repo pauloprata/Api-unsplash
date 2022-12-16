@@ -14,7 +14,7 @@ Projeto pessoal utilizando a API UNSPLASH
   <img src="screenshots/screenshots4.jpeg" width="300" /> 
 </p>
 <p float="left">
-  <img src="screenshots/screenshots1.jpeg" width="300" />
+  <img src="Imagens/principal.png" width="300" />
   <img src="screenshots/screenshots2.jpeg" width="300" /> 
 </p>
 
